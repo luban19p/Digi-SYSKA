@@ -1,5 +1,5 @@
 # OL Hacky Hours
-![Hackers by Nick Youngson CC BY-SA 3.0 ImageCreator](/pictures/hackers.jpg)
+![Hackers by Nick Youngson CC BY-SA 3.0 ImageCreator](/images/hackers.jpg)
 #### Otago Library Hacky Hours: an informal, supportive space for learning useful software skills
 
 ## WHEN ... do I show up?
