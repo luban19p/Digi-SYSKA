@@ -1,2 +1,2 @@
-# OL-Hacky-Hours
-Otago Library Hacky Hours
+# OL Hacky Hours
+## Otago Library Hacky Hours
