@@ -1,6 +1,6 @@
 ### A supportive space for learning useful software skills
 
-![](/OL-Hacky-Hours/hackers_sml.jpg)
+![Typewriter with hackers written on paper](/OL-Hacky-Hours/hackers_sml.jpg)
 
 *Hackers by Nick Youngson CC BY-SA 3.0* 
 
@@ -21,4 +21,4 @@ Yourself, your device (OL Hacky Hours are BYOD), your stomach (there will be cak
 
 ## WHY ... should I attend?
 Whether you attend is up to you (and your workload, of course). The sessions are entirely optional and each will consist of standalone content (so no need to worry if you miss one or two or five sessions). The software skills we will delve into will be relevant to the work you do and/or the work academic staff and students at Otago do. The sessions are designed to be hands-on and fun (if coding and data manipulation are your idea of fun), and will contribute to your professional development. And there's cake.  
-![]
+![Slice of chocolate cake](/OL-Hacky-Hours/Cake.jpg)
