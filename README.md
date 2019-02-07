@@ -1,6 +1,6 @@
 # OL Hacky Hours
 
-![Hackers by Nick Youngson CC BY-SA 3.0 ImageCreator](/OL-Hacky-Hours/hackers_sml.jpg)
+![Hackers by N. Youngson CC BY-SA 3.0](/OL-Hacky-Hours/hackers_sml.jpg)
 
 #### Otago Library Hacky Hours: an informal, supportive space for learning useful software skills
 
