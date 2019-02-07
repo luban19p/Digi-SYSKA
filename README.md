@@ -1,4 +1,4 @@
-### An informal, supportive space for learning useful software skills
+### A supportive space for learning useful software skills
 
 ![](/OL-Hacky-Hours/hackers_sml.jpg)
 
