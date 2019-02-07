@@ -1,5 +1,3 @@
-# OL Hacky Hours
-
 ![](/OL-Hacky-Hours/hackers_sml.jpg)
 
 #### Otago Library Hacky Hours: an informal, supportive space for learning useful software skills
