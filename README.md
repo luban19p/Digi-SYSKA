@@ -1,6 +1,7 @@
 ### A supportive space for learning useful software skills
 
 ![](/OL-Hacky-Hours/hackers_sml.jpg)
+Hackers by Nick Youngson CC BY-SA 3.0 
 
 ## WHEN ... do I show up?
 The first Tuesday of every month at 9:30am, starting 2 April 2019. 
