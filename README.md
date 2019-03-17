@@ -1,4 +1,3 @@
-# Digi SYSKA (Stuff You Should Know About)
 ### A supportive space for learning useful software skills
 
 ## WHEN ... do I show up?
