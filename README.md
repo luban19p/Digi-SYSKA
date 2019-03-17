@@ -1,3 +1,4 @@
+## Digi SYSKA (Stuff You Should Know About)
 ### A supportive space for learning useful software skills
 
 ![](/OL-Digi-SYSKA_sml.jpg)
