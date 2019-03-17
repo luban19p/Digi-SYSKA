@@ -5,7 +5,7 @@
 *Hackers by Nick Youngson CC BY-SA 3.0* 
 
 ## WHEN ... do I show up?
-The first Wednesday of every month at 9:30am, starting 2 April 2019. 
+The first Wednesday of every month at 9:30am, starting 1 May 2019. 
 
 ## HOW ... long do I stay?
 As long as you like but sessions run for around one hour, followed by morning tea.
