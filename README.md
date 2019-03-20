@@ -4,9 +4,9 @@
 The first session is on effective spreadsheeting: "Get your sheet together", and we have sessions on OpenRefine (a powerful data cleaning tool), markdown and Github lined up (suggestions for content are also welcome). We will endeavour to have lightening talks at the start of some sessions to find out what our colleagues can do with their software skills and get tips from them. 
 
 ## WHAT (2) ... do I bring?
-[x] Yourself
-[x] A device (Digi SYSKA sessions are BYOD)
-[x] Your stomach (there will be cake/snacks/baking) 
+- [x]  Yourself
+- [x]  A device (Digi SYSKA sessions are BYOD)
+- [x]  Your stomach (there will be cake/snacks/baking) 
 
 You might also need to download software but we will let you know before the relevant session.
 
