@@ -7,6 +7,7 @@ The first session is on effective spreadsheeting: "Get your sheet together", and
 - [x] Yourself
 - [x] A device (Digi SYSKA sessions are BYOD)
 - [x] Your stomach (there will be cake/snacks/baking) 
+
 You might also need to download software but we will let you know before the relevant session.
 
 ## WHEN ... do I show up?
