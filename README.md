@@ -2,7 +2,6 @@
 
 ## WHAT ... will be covered?
 The first session is on effective spreadsheeting: "Get your sheet together". Dene and Antje will take you through some common formatting mistakes and outline the tidy data principles. You will also get to play with a dataset supplied by Dene, who will teach you some awesome functions in Excel you never knew you couldn't live without! You will also hear about the importance of good data organisation practices from a researcher at Otago.  
-SAFI_messy_DigiSYSKA.xlsx
 
 ## WHAT (2) ... do I bring?
 - [x]  Yourself
