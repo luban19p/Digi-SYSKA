@@ -17,7 +17,7 @@ Wednesday, May 1 @ 10:30am.
 The teach and learn part of Digi SYSKA runs for 1 hour, from 10:30 - 11:30, followed by kai.
 
 ## WHERE ... do I go?
-Session 1 is in St David II 2.09 Meeting Room.
+NB CHANGE IN LOCATION: Session 1 is now in St David II, 2.09 Meeting Room.
 
 ## WHY ... should I attend Digi SYSKA?
 The software skills we will delve into will be relevant to the work you do and/or the work academic staff and students at Otago do. The sessions are designed to be hands-on and fun (if coding and data manipulation are your idea of fun), and your participation can be cited in your Professional Development Review. 
