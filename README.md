@@ -1,12 +1,12 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-The second session is on using APIs to access GLAM metadata and cleaning data in OpenRefine. Chris will take us through the documentation and how to use APIs before you get to play with some data in OpenRefine (and by "play", I mean clean it up!).   
+In the second session, "If you're api and you know it...", we will look at using APIs (Application Programming Interfaces) to access GLAM metadata and cleaning data in OpenRefine. Chris will take us through the documentation and how to use an API before you get to play with some data in OpenRefine (and by "play", I mean clean it up - fun!).   
 
 ## WHAT (2) ... do I bring?
 - [x]  Yourself
 - [x]  A device (Digi SYSKA sessions are BYOD)
-- [x]  Again, feel free to bring along a dataset with errors in it that you would like to quickly fix up
+- [x]  Feel free to bring along a dataset with errors in it that you would like to quickly fix up
 
 **Software: You will need to install OpenRefine on your devices (if it isn't already on there). Go to** [openrefine.org](http://openrefine.org/download.html)
 
