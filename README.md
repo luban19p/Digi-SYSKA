@@ -8,7 +8,7 @@ The second session is on using APIs to access GLAM metadata and cleaning data in
 - [x]  A device (Digi SYSKA sessions are BYOD)
 - [x]  Again, feel free to bring along a dataset with errors in it that you would like to quickly fix up
 
-**Software: You will need to install OpenRefine on your devices (if it isn't already on there). Go to** [OpenRefine](http://openrefine.org/download.html)
+**Software: You will need to install OpenRefine on your devices (if it isn't already on there). Go to** [openrefine.org](http://openrefine.org/download.html)
 
 ## WHEN ... do I show up?
 Wednesday, June 5 @ 10:30am. 
