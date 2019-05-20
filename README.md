@@ -1,7 +1,7 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-In the second session, "If you're api and you know it...", we will look at using APIs (Application Programming Interfaces) to access GLAM metadata and will also be cleaning up some data using OpenRefine. Chris will take us through the documentation and how to use an API before you get to play with some data in OpenRefine (and by "play", I mean clean it up - fun!).   
+In the second session, "If you're api and you know it...", we will look at using APIs (Application Programming Interfaces) to access GLAM metadata and will also be cleaning up some data using OpenRefine (if time permits). Chris will take us through the documentation and how to use an API before you get to play with some data in OpenRefine (and by "play", I mean clean it up - fun!).   
 
 ## WHAT (2) ... do I bring?
 - [x]  Yourself
