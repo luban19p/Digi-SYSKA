@@ -8,7 +8,10 @@ In the second session, "If you're api and you know it...", we will look at using
 - [x]  A device (Digi SYSKA sessions are BYOD)
 - [x]  Feel free to bring along a dataset with errors in it that you would like to quickly fix up
 
-**Software: You will need to install OpenRefine on your devices (if it isn't already on there). Go to** [openrefine.org](http://openrefine.org/download.html)
+**Software: You will need to install the below and sign up to Digital NZ before the session** 
+[openrefine.org](http://openrefine.org/download.html)
+[Firefox browser] (httpshttps://www.mozilla.org/en-US/firefox/new/://www.mozilla.org/en-US/firefox/new/)
+[Digital NZ sign up] (https://digitalnz.org/)
 
 ## WHEN ... do I show up?
 Wednesday, June 5 @ 10:30am. 
