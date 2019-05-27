@@ -5,7 +5,7 @@ In the second session, "If you're api and you know it...", we will look at using
 
 ## WHAT (2) ... do I bring?
 **Software: You will need to install the below and sign up to Digital NZ before the session:** 
-* [openrefine.org](http://openrefine.org/download.html)
+* [OpenRefine](http://openrefine.org/download.html)
 * [Firefox browser](https://www.mozilla.org/en-US/firefox/new/)
 * [Digital NZ sign up](https://digitalnz.org/)
 
