@@ -4,7 +4,7 @@
 In the second session, "If you're api and you know it...", we will look at using APIs (Application Programming Interfaces) to access GLAM metadata and will also be cleaning up some data using OpenRefine (if time permits). Chris will take us through the documentation and how to use an API before you get to play with some data in OpenRefine (and by "play", I mean clean it up - fun!).   
 
 ## WHAT (2) ... do I bring?
-**Software: You will need to install the below and sign up to Digital NZ before the session:** 
+**You will need to install the below and sign up to Digital NZ before the session:** 
 * [OpenRefine](http://openrefine.org/download.html)
 * [Firefox browser](https://www.mozilla.org/en-US/firefox/new/)
 * [Digital NZ sign up](https://digitalnz.org/)
