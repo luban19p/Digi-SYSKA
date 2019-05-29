@@ -1,7 +1,7 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-In the second session, "If you're api and you know it...", we will look at using APIs (Application Programming Interfaces) to access GLAM metadata and will clean up a subset of this data using OpenRefine. Chris will take us through how to use an API key supplied by Digital NZ to get to the backend of their online database. As a nifty aside, you will learn about the structure of URLs. The link to the reference document for this session is here: https://github.com/luban19p/Digi-SYSKA/blob/master/DigiSYSKA2_APIsURLs.docx   
+In the second session, "If you're api and you know it...", we will look at using APIs (Application Programming Interfaces) to access GLAM metadata and will clean up a subset of this data using OpenRefine. Chris will take us through how to use an API key supplied by Digital NZ to get to the backend of their online database. As a nifty aside, you will learn about the structure of URLs. The link to the reference document for this session is here: [DigiSYSKA2_APIsURLs](https://github.com/luban19p/Digi-SYSKA/blob/master/DigiSYSKA2_APIsURLs.docx)   
 
 ## WHAT (2) ... do I bring?
 **You will need to install the below and sign up to Digital NZ before the session:** 
