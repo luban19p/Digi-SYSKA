@@ -5,8 +5,8 @@ In session 3, "Google ScholaR", we will build on our knowledge of APIs and URLs 
 
 ## WHAT (2) ... do I bring?
 **You will need to install R and R Studio on your machines:** 
-* R: https://cran.r-project.org/
-* R Studio: https://www.rstudio.com/products/rstudio/download/
+* [R](https://cran.r-project.org/)
+* [R Studio](https://www.rstudio.com/products/rstudio/download/)
 
 ## WHEN ... do I show up?
 Wednesday, July 3 @ 10:30am. 
