@@ -15,7 +15,7 @@ Wednesday, July 3 @ 10:30am.
 The teach and learn part of Digi SYSKA runs for 1.5 hours. Kai will be offered during the session.
 
 ## WHERE ... do I go?
-I am SUPER pleased to announce that all future Digi SYSKA sessions will take place in the remodelled RSU in the Science Library!
+TBC
 
 ## WHY ... should I attend Digi SYSKA?
 The software skills we will delve into will be relevant to the work you do and/or the work academic staff and students at Otago do. The sessions are designed to be hands-on and fun, and your participation can be cited in your Professional Development Review. 
