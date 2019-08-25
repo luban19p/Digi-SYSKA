@@ -1,10 +1,12 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-In session 4, "ScholaR RepoRts" or "RepRoducible RepoRts", we will build on the previous session's content and produce reports from the citation data we were able to extract from Google Scholar using the R package, "scholar". This will be a gentle introduction to markdown and will hopefully demonstrate how moving beyond proprietary software can make life/workflows a little easier. (The key word is "RepRoducibility".) We will again be in the very competent and capable hands of Murray and I also now have a newly minted "helper" for the session: Chris. 
+In session 5, "Digi SYSKA: The Reboot", you have the choice of revisiting Murray's R lessons or Dene's Excel lesson. We will split into two groups and focus on making these sessions as hands-on as possible. Yes, I have taken your feedback into account a la "more play time" :). We will mostly be going over what we've already learned, with maybe a couple of extra tips and tricks in the Excel session. 
+
 Lesson materials from the previous session can be accessed below, if you would like to revise beforehand.
 * [Intro to R](intro_to_r.html)
 * [Google Scholar example](google_scholar_example.html)
+* [Get your sheet together]
 
 ## WHAT (2) ... do I bring?
 **You will need to install R and R Studio on your machines:** 
@@ -12,13 +14,13 @@ Lesson materials from the previous session can be accessed below, if you would l
 * [R Studio](https://www.rstudio.com/products/rstudio/download/)
 
 ## WHEN ... do I show up?
-Wednesday, August 7 @ 10:30am. 
+Wednesday, September 4 @ 10:30am. 
 
 ## HOW ... long do I stay?
 The teach and learn part of Digi SYSKA runs for 1.5 hours. Kai will be offered during the session.
 
 ## WHERE ... do I go?
-St David II - Rm 1.09 on Level One.
+Meeting room 1, IR, Central Library.
 
 ## WHY ... should I attend Digi SYSKA?
 The software skills we will delve into will be relevant to the work you do and/or the work academic staff and students at Otago do. The sessions are designed to be hands-on and fun, and your participation can be cited in your Professional Development Review. 
