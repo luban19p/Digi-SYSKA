@@ -8,7 +8,7 @@ Lesson materials from the previous session can be accessed below, if you would l
 * [Google Scholar example](google_scholar_example.html)
 * [Get your sheet together - handout](DigiSYSKA1_handout.pdf)
 * [Excel - messy data](SAFI_messy_DigiSYSKA.xlsx)
-* [Excel - Dene's adresses spreadsheet](DigiSYSKA_Copy of US_Students2.xlsx)
+* [Excel - Dene's adresses spreadsheet](DigiSYSKA_Copy_of_US_Students.xlsx)
 
 ## WHAT (2) ... do I bring?
 **You will need to install R and R Studio on your machines:** 
