@@ -6,7 +6,9 @@ In session 5, "Digi SYSKA: The Reboot", you have the choice of revisiting Murray
 Lesson materials from the previous session can be accessed below, if you would like to revise beforehand.
 * [Intro to R](intro_to_r.html)
 * [Google Scholar example](google_scholar_example.html)
-* [Get your sheet together](DigiSYSKA1_handout.pdf)
+* [Get your sheet together - handout](DigiSYSKA1_handout.pdf)
+* [Excel - messy data](SAFI_messy_DigiSYSKA.xlsx)
+* [Excel - Dene's adresses spreadsheet](DigiSYSKA_Copy of US_Students2.xlsx)
 
 ## WHAT (2) ... do I bring?
 **You will need to install R and R Studio on your machines:** 
