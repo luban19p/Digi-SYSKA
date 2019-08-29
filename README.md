@@ -11,7 +11,7 @@ Lesson materials from the previous session can be accessed below, if you would l
 * [Excel - Dene's adresses spreadsheet](DigiSYSKA_Copy_of_US_Students.xlsx)
 
 ## WHAT (2) ... do I bring?
-**You will need to install R and R Studio on your machines:** 
+**If attending the R session, you will need to install R and R Studio on your machines:** 
 * [R](https://cran.r-project.org/)
 * [R Studio](https://www.rstudio.com/products/rstudio/download/)
 
