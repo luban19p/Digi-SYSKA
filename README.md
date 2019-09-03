@@ -10,8 +10,8 @@ Lesson materials from the previous session can be accessed below, if you would l
 * [Excel - messy data](SAFI_messy_DigiSYSKA.xlsx)
 * [Excel - Dene's adresses spreadsheet](DigiSYSKA_Copy_of_US_Students.xlsx)
 
-* [Dates as data](SAFI_dates.csv)
-* [Quality assurance](SAFI_clean.csv)
+* [Dates as data](SAFI_dates.xlsx)
+* [Quality assurance](SAFI_clean.xlsx)
 
 ## WHAT (2) ... do I bring?
 **If attending the R session, you will need to install R and R Studio on your machines:** 
