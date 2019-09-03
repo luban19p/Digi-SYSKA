@@ -10,6 +10,7 @@ Lesson materials from the previous session can be accessed below, if you would l
 * [Excel - messy data](SAFI_messy_DigiSYSKA.xlsx)
 * [Excel - Dene's adresses spreadsheet](DigiSYSKA_Copy_of_US_Students.xlsx)
 
+* [kahoot.it](https://kahoot.it/)
 * [Dates as data](SAFI_dates.xlsx)
 * [Quality assurance](SAFI_clean.xlsx)
 
