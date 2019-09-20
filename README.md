@@ -1,7 +1,7 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-In session 6, you bring the SYSKA! Yes, what do YOU think your colleagues should know about when it comes to digital hacks? Come prepared to share one fantastic keyboard shortcut or your number one trick for getting on top of your Outlook inbox or ... I don't know - it is your time/sanity-saving tip/trick/thing after all! :)  
+In session 6, "BYO SYSKA", you bring the SYSKA! Yes, what do YOU think your colleagues should know about when it comes to digital hacks? Come prepared to share one fantastic keyboard shortcut or your number one trick for getting on top of your Outlook inbox or ... I don't know - it is your time/sanity-saving tip/trick/thing after all! :)  
 We'll also take the opportunity to bust some jargon, Library Carpentry style, and spend time looking at our day-to-day workflows and how these might be sped up, stream-lined, automated.  
 
 ## WHAT (2) ... do I bring?
