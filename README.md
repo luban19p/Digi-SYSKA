@@ -1,7 +1,7 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-In session 7, we continue the thread from October's "BYO SYSKA" and look at working smarter with Outlook and get a wee intro to [Trello](https://trello.com/en) with Dene. In preparation, take some time and consider the things you do with 'your' Outlook that you might be able to share with the group - "I'll show you my Outlook if you show me yours". If there's time we'll also get Zoom up and running and see how we can use it more effectively (i.e. aside from using the airbrush filter, which I've only just found out about! :-P).    
+In session 7, we continue the thread from October's "BYO SYSKA" and look at working smarter with Outlook and get a wee intro to [Trello](https://trello.com/en) with Dene. In preparation, take some time and consider the things you do with your Outlook that you might be able to share with the group - "I'll show you my Outlook if you show me yours". If there's time we'll also get Zoom up and running and see how we can use it more effectively (i.e. aside from using the airbrush filter, which I've only just found out about - thanks Fiona! :-P).    
 
 ## WHAT (2) ... do I bring?
 Devices and something to share about how you use Outlook.
