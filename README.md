@@ -1,20 +1,20 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-In the final session for 2019, we will Zoom into the world of VR - VRoom! VRoom! If researchers get to play with VR then why can't we!? Fiona will introduce us to a couple of games in order to get a feel for VR and its possibilities (and, really, just to have a bit of fun). Following on from this, the lovely Jeff Ormandy from eConferencing will give us an overview of using Zoom for individuals and provide some tips and tricks on how best to run our Zoom sessions. 
+Each session will cover a tool or skill that can help you in your work and/or that is used by researchers at Otago. Session topics could include: Excel spreadsheet functions and pivot tables, Tidy Data, using APIs to extract metadata from e.g. Digital NZ, getting the most out of Outlook, cleaning data using OpenRefine, keyboard shortcuts, jargon busting.   
 
 ## WHAT (2) ... do I bring?
-This time devices are optional but I thought perhaps, as it is the final session of the year, we could all bring some food to share.
+Digi SYSKA is BYOD (most of the time). There are limited pool laptops, so please contact me (Antje) early if you need one. 
 
 ## WHEN ... do I show up?
-Wednesday, December 4 @ 10:30am. 
+TBC (re-starting in May 2020) 
 
 ## HOW ... long do I stay?
-The teach and learn part of Digi SYSKA runs for 1.5 hours.
+The teach and learn part of Digi SYSKA runs for 1.5 hours (most likely).
 
 ## WHERE ... do I go?
-Central Library Seminar Room 6 (the BIG one).
+TBC (likely various locations).
 
 ## WHY ... should I attend Digi SYSKA?
-The software skills we will delve into will be relevant to the work you do and/or the work academic staff and students at Otago do. The sessions are designed to be hands-on and fun, and your participation can be cited in your Professional Development Review. 
+The software skills we will delve into will be relevant to the work you do and/or the work academic staff and students at Otago do. The sessions are designed to be hands-on and fun. 
 
