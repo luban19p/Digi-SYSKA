@@ -13,7 +13,7 @@ TBC (re-starting in late April 2020)
 The teach and learn part of Digi SYSKA runs for 2 hours (give or take).
 
 ## WHERE ... do I go?
-TBC (likely various locations).
+Science Library Seminar Room.
 
 ## WHY ... should I attend Digi SYSKA?
 The software skills we will delve into will be relevant to the work you do and/or the work academic staff and students at Otago do. The sessions are designed to be hands-on and fun. 
