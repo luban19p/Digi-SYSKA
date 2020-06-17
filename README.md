@@ -7,10 +7,10 @@ Each session will cover a tool or skill that can help you in your work and/or th
 Digi SYSKA is BYOD (most of the time). There are limited pool laptops, so please contact me (Antje) early if you need one. 
 
 ## WHEN ... do I show up?
-TBC (re-starting in late April 2020) 
+TBC (re-starting in late July/early August 2020) 
 
 ## HOW ... long do I stay?
-The teach and learn part of Digi SYSKA runs for 2 hours (give or take).
+The teach and learn part of Digi SYSKA runs for 1.5 hours (give or take).
 
 ## WHERE ... do I go?
 Science Library Seminar Room.
