@@ -1,9 +1,9 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-Digi SYSKA 2020 kicks off with a crowd favourite: "Get Your Sheet Together!", presented by Dene McDonald. In this session you will get to play with a dataset in Excel and learn things you never knew Excel/you could do. While it helps to have a bit of prior knowledge of Excel, there will be helpers on hand so everyone gets something out of the session.
+Digi SYSKA 2020 kicks off with a crowd favourite: "Get Your Sheet Together!", presented by Dene McDonald. In this session you will get to play with a dataset in Excel and learn things you never knew Excel/you could do. While it helps to have a bit of prior knowledge of Excel, there will be helpers on hand so everyone gets something out of the session.(Please note: this is an intro level session.)
 
-(NB Each session will cover a tool or skill that can help you in your work and/or that is used by researchers at Otago. Session content includes: Excel spreadsheets and Tidy Data, using APIs to extract metadata from e.g. Digital NZ, getting the most out of Outlook, cleaning data using OpenRefine, your digital footprint/online safety, Publish or Perish (a special bibliometrics training collab.), keyboard shortcuts, jargon busting, intro to programming languages.)   
+NB Each Digi SYSKA session will cover a tool or skill that can help you in your work and/or that is used by researchers at Otago. Session content includes: Excel spreadsheets and Tidy Data, using APIs to extract metadata from e.g. Digital NZ, getting the most out of Outlook, cleaning data using OpenRefine, your digital footprint/online safety, Publish or Perish (a special bibliometrics training collab.), keyboard shortcuts, jargon busting, intro to programming languages.   
 
 ## WHAT (2) ... do I bring?
 Digi SYSKA is BYOD (most of the time). There are limited pool laptops, so please contact me (Antje) early if you need one. 
