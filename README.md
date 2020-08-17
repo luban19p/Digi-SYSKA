@@ -1,7 +1,7 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-"If you're API and you know it ...". Digi SYSKA 2020 is going ahead this Wednesday (albeit slightly altered what with our move to Alert Level 2). Shiobhan is taking us through APIs and how they can be used to extract metadata from websites. She will also introduce us to the awesomely powerful data cleaning tool, OpenRefine. Anyone who likes things neat and tidy, or any aspiring Marie Kondos, will love this session. Bring your laptop (we'll supply the hand sanitiser). And be sure to download and install OpenRefine from (https://openrefine.org/download.html) before the session. 
+"If you're API and you know it ...". Digi SYSKA 2020 is going ahead this Wednesday (albeit slightly altered what with our move to Alert Level 2). Shiobhan is taking us through APIs and how they can be used to extract metadata from websites. She will also introduce us to the awesomely powerful data cleaning tool, OpenRefine. Anyone who likes things neat and tidy, or any aspiring Marie Kondos, will love this session. Bring your laptop (we'll supply the hand sanitiser). And be sure to download and install OpenRefine from [here](https://openrefine.org/download.html) before the session. 
 
 NB Each Digi SYSKA session will cover a tool or skill that can help you in your work and/or that is used by researchers at Otago. Session content includes: Excel spreadsheets and Tidy Data, using APIs to extract metadata from e.g. Digital NZ, getting the most out of Outlook, cleaning data using OpenRefine, your digital footprint/online safety, Publish or Perish (a special bibliometrics training collab.), keyboard shortcuts, jargon busting, intro to programming languages.   
 
