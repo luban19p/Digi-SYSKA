@@ -1,7 +1,7 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-For the second session we have David Hood (from IT Training and Development) coming to talk us through online safety, digital footprints, etc. I'm not certain yet how hands-on this session will be, but please bring your laptop/Macbook just in case. (I have pre-booked the 4 pool laptops for those who need one of these.)  
+The third session is a SYSKA-Bibliometrics training collab presented by Shiobhan, who will take us through Publish or Perish (a tool designed to help academics show the impact their research is having in academia by grabbing and analysing citations to their work). While PoP uses a variety of data sources, Shiobhan is going to focus on Google Scholar as it is the trickiest and messiest data source to work with on its own. Before the session, please make sure to download and install PoP on your device. For PC, use [this link](https://harzing.com/resources/publish-or-perish/windows), and for Mac use [this one](https://harzing.com/resources/publish-or-perish/os-x).        
 
 NB Each Digi SYSKA session will cover a tool or skill that can help you in your work and/or that is used by researchers at Otago. Session content includes: Excel spreadsheets and Tidy Data, using APIs to extract metadata from e.g. Digital NZ, getting the most out of Outlook, cleaning data using OpenRefine, your digital footprint/online safety, Publish or Perish (a special bibliometrics training collab.), keyboard shortcuts, jargon busting, intro to programming languages.   
 
@@ -9,7 +9,7 @@ NB Each Digi SYSKA session will cover a tool or skill that can help you in your 
 Digi SYSKA is BYOD (most of the time). There are limited pool laptops, so please contact me (Antje) early if you need one. 
 
 ## WHEN ... do I show up?
-@10am on Wednesday, 2 September 2020. 
+@10am on Wednesday, 16 September 2020. 
 
 ## HOW ... long do I stay?
 The teach and learn part of Digi SYSKA runs for 1.5 hours (give or take).
