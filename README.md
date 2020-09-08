@@ -1,7 +1,9 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-The third session is a SYSKA-Bibliometrics training collab presented by Shiobhan, who will take us through Publish or Perish (a tool designed to help academics show the impact their research is having in academia by grabbing and analysing citations to their work). While PoP uses a variety of data sources, Shiobhan is going to focus on Google Scholar as it is the trickiest and messiest data source to work with on its own. Before the session, please make sure to download and install PoP on your device. For PC, use [this link](https://harzing.com/resources/publish-or-perish/windows), and for Mac use [this one](https://harzing.com/resources/publish-or-perish/os-x). 
+The third session is a SYSKA-Bibliometrics training collab presented by Shiobhan, who will take us through Publish or Perish (a tool designed to help academics show the impact their research is having in academia by grabbing and analysing citations to their work). While PoP uses a variety of data sources, Shiobhan is going to focus on Google Scholar as it is the trickiest and messiest data source to work with on its own. Before the session, please make sure to download and install PoP on your device. For PC, use [this link](https://harzing.com/resources/publish-or-perish/windows), and for Mac use [this one](https://harzing.com/resources/publish-or-perish/os-x).
+
+If you have time, please also read [chapter 13 of the Publish or Perish book](https://harzing.com/popbook/ch13.htm) before the session.
 
 If you have any issues installing the software, then please feel free to come along to the session 15 minutes early, and Shiobhan and I can help you out. :)        
 
