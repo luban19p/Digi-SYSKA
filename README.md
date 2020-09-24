@@ -1,7 +1,7 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-Our next session was chosen by YOU! We are going to loop back and start from the beginning, learning about the data cleaning tool, OpenRefine. This session will be presented by Antje and is based on the [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-refine/) lesson. Please note that this Digi SYSKA is taking place on a THURSDAY - same time, same location though. :)
+Our next session was chosen by YOU! We are going to loop back and start from the beginning, learning about the data cleaning tool, OpenRefine. This session will be presented by Antje and is based on the [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-refine/) lesson. Yes - this was meant to be last week's extra session, but it will now be this week's "regular" session. :)  
 
 Before the session, make sure you have downloaded and installed OpenRefine on your device, and save the DOAJ (Directory of Open Access Journals) dataset to your desktop (or somewhere where you can easily find it on the day). This can all be done from the lesson's [Setup](https://librarycarpentry.org/lc-open-refine/setup.html) page.
 
@@ -11,7 +11,7 @@ NB Each Digi SYSKA session will cover a tool or skill that can help you in your 
 Digi SYSKA is BYOD (most of the time). There are limited pool laptops, so please contact me (Antje) early if you need one. 
 
 ## WHEN ... do I show up?
-@10am on THURSDAY, 24 September 2020. 
+@10am on Wednesday, 30 September 2020. 
 
 ## HOW ... long do I stay?
 The teach and learn part of Digi SYSKA runs for 1.5 hours (give or take).
