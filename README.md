@@ -3,7 +3,7 @@
 ## WHAT ... will be covered?
 The next session will introduce you to markdown. Well, the session won't, Murray Cadzow will! I am going to leave you in his very capable hands to learn a bit about markdown syntaxes using [HackMD](https://hackmd.io/) as the uber-fun vehicle ("it's like Google Docs only in markdown" - Murray Cadzow). Murray might also give you an intro to GitHub pages (which is what I use to create this webpage every week!). What is markdown, you ask? Markdown is a simple syntax that formats text as headers, lists, boldface, etc. on webpages.
 
-There's nothing to download and install this week - just show up and have fun!
+There's nothing to download and install this week - just show up (with your device) and have fun!
 
 NB This is different to what I had initially told you would be taught this session (R Scholar), as we felt markdown might be more fun and immediately applicable to you. :)  
 
