@@ -5,9 +5,7 @@ The next session will introduce you to markdown. Well, the session won't, Murray
 
 There's nothing to download and install this week - just show up (with your device) and have fun!
 
-NB This is different to what I had initially told you would be taught this session (R Scholar), as we felt markdown might be more fun and immediately applicable to you. :)  
-
-NB Each Digi SYSKA session will cover a tool or skill that can help you in your work and/or that is used by researchers at Otago. Session content could include: Excel spreadsheets and Tidy Data, using APIs to extract metadata from e.g. Digital NZ, getting the most out of Outlook, cleaning data using OpenRefine, your digital footprint/online safety, Publish or Perish (a special bibliometrics training collab.), keyboard shortcuts, jargon busting, intro to programming languages.   
+NB This is different to what I had initially told you would be taught this session (R Scholar), as we felt markdown might be more fun and immediately applicable to you. :)    
 
 ## WHAT (2) ... do I bring?
 Digi SYSKA is BYOD (most of the time). There are limited pool laptops, so please contact me (Antje) early if you need one. 
