@@ -1,17 +1,17 @@
 ### A supportive space for learning useful software skills
 
 ## WHAT ... will be covered?
-The next session is the Get Your Sheet Together BONANZA!! First, I will take you through some tips and tricks when working with Excel, before looping back and starting from the beginning of Digi SYSKA 2020. Shiobhan had you working with OpenRefine for her APIs session, but let's cover some OpenRefine basics in this session. I will use the [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-refine/) lesson as a very loose guideline for the OpenRefine part of the session.  
+The next session will introduce you to markdown. Well, the session won't, Murray Cadzow will! I am going to leave you in his very capable hands to learn a bit about markdown syntaxes using [HackMD](https://hackmd.io/) as the uber-fun vehicle ("it's like Google Docs only in markdown" - Murray Cadzow). Murray might also give you an intro to GitHub pages (which is what I use to create this webpage every week!). What is markdown, you ask? Markdown is a simple syntax that formats text as headers, lists, boldface, etc. on webpages.
 
-Before the session, make sure you have downloaded and installed OpenRefine on your device. This can be done from the Library Carpentry lesson's [Setup](https://librarycarpentry.org/lc-open-refine/setup.html) page. You will also need to download the [dataset that we will use in the session](DigiSYSKA_Copy_of_US_Students.xlsx).
+NB This is different to what I had initially told you would be taught this session (R Scholar), as we felt markdown might be more fun and immediately applicable to you. :)  
 
-NB Each Digi SYSKA session will cover a tool or skill that can help you in your work and/or that is used by researchers at Otago. Session content includes: Excel spreadsheets and Tidy Data, using APIs to extract metadata from e.g. Digital NZ, getting the most out of Outlook, cleaning data using OpenRefine, your digital footprint/online safety, Publish or Perish (a special bibliometrics training collab.), keyboard shortcuts, jargon busting, intro to programming languages.   
+NB Each Digi SYSKA session will cover a tool or skill that can help you in your work and/or that is used by researchers at Otago. Session content could include: Excel spreadsheets and Tidy Data, using APIs to extract metadata from e.g. Digital NZ, getting the most out of Outlook, cleaning data using OpenRefine, your digital footprint/online safety, Publish or Perish (a special bibliometrics training collab.), keyboard shortcuts, jargon busting, intro to programming languages.   
 
 ## WHAT (2) ... do I bring?
 Digi SYSKA is BYOD (most of the time). There are limited pool laptops, so please contact me (Antje) early if you need one. 
 
 ## WHEN ... do I show up?
-@10am on Wednesday, 30 September 2020. 
+@10am on Wednesday, 14 October 2020. 
 
 ## HOW ... long do I stay?
 The teach and learn part of Digi SYSKA runs for 1.5 hours (give or take).
