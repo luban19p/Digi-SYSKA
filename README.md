@@ -15,7 +15,7 @@ Digi SYSKA is BYOD (most of the time). There are limited pool laptops, so please
 The teach and learn part of Digi SYSKA runs for 1.5 hours (give or take).
 
 ## WHERE ... do I go?
-Science Library Seminar Room.
+Science Library Seminar Room (and github).
 
 ## WHY ... should I attend Digi SYSKA?
 The software skills we will delve into will be relevant to the work you do and/or the work academic staff and students at Otago do. The sessions are designed to be hands-on and fun. 
