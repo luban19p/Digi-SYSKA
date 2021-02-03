@@ -1,22 +1,10 @@
-### A supportive space for learning useful software skills
+### Digi SYSKA is turning into SYSKA Bytes in 2021!
 
-## WHAT ... will be covered?
-The final (official) session of Digi SYSKA this year will be a continuation of markdown with the added bonus of GitHub pages, presented by Murray! There's nothing to download and install this week - just show up (with your device) and have fun! If you want to be extra prepared, sign up to [GitHub](https://github.com) before Wednesday.
+## WHAT?!!
+After running a slightly-formal-ish version of Digi SYSKA in 2019 & 2020, 2021 is going to be all about the byte-sized SYSKA (Stuff You Should Know About)! Planning is in progress, so watch this space!
 
-NB Murray might offer a special session on the R Scholar package - watch this space.    
+## WHY ... should I attend Digi SYSKA, ... no, wait, SYSKA Bytes?
+Your colleagues from across the library (and maybe some outside the library ... or even outside Dunedin or outside New Zealand!) will be giving up a slice of their lunchbreak (30 mins max) once per month to tell you or teach you or entertain you on something they know or have learned that has made their work-life that much easier! It's all about the automation and simplification of stuff we do in the digital space that has become our "workplace"! 
 
-## WHAT (2) ... do I bring?
-Digi SYSKA is BYOD (most of the time). There are limited pool laptops, so please contact me (Antje) early if you need one. 
-
-## WHEN ... do I show up?
-@10am on Wednesday, 28 October 2020. 
-
-## HOW ... long do I stay?
-The teach and learn part of Digi SYSKA runs for 1.5 hours (give or take).
-
-## WHERE ... do I go?
-Science Library Seminar Room (and github).
-
-## WHY ... should I attend Digi SYSKA?
-The software skills we will delve into will be relevant to the work you do and/or the work academic staff and students at Otago do. The sessions are designed to be hands-on and fun. 
+So, come along when you can and learn some good Stuff You Should Know About! 
 
